@@ -1,7 +1,7 @@
 import { creditSideOf, isPipelineStatus, strikeFromLeg, type Trade } from "./types.ts";
 
 export const NBIS_WATCH_NOTE =
-  "iron-condor call wing; already have Sep18 160/150 PCS; not an add-on size";
+  "IC call wing vs Sep18 160/150 PCS — not add-on size. Labor Day tape: chips bid, hike odds >50%, last prints still well below 270. Keep Watch; don't chase the Asia open. ER 10 Nov, not before Sep18.";
 
 export const NBIS_WATCH_LINKED = "Sep18 PCS 160/150";
 
